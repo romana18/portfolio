@@ -148,17 +148,7 @@ export const experiences = [
             "Designed and implemented responsive and scalable architectures, ensuring optimal performance and user experience across various devices. Utilized technologies such as React.js for frontend and Node.js/Express for backend development.",
         ],
     },
-    {
-        title: "Full stack Developer",
-        company_name: "Dairy Neighbor",
-        icon: "DN",
-        iconBg: "#dedede",
-        date: "November 2023 - Present",
-        points: [
-            "Created a brand personality of the firm",
-            "Currently developing a web application for the firm",
-        ],
-    },
+
 ];
 
 export const socialLinks = [
